@@ -1,12 +1,3 @@
-test
+2016.11.21
+	study python
 
-add something
-
-
-do something
-
-
- nothing
-
-
-haha
